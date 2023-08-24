@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Fredoka One;
+    background-color: dodgerblue;
+}
+
+h1{
+    font-size: 60px;
+    color: #FAB201;
+    -webkit-text-stroke: 2px white;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    padding-bottom: 50px;
+}
+
+.box{
+    height: 90px;
+    width: 90px;
+    margin:5px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.text{
+    color:white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
